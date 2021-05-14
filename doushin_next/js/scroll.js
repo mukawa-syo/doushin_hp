@@ -1,0 +1,1 @@
+$(window).scroll(function(){var mvh=$('.header-surface').height();var top=$(window).scrollTop();if(mvh<=top){$('.header-surface').css('background-color','rgba(0,0,0,0.0)')}else{$('.header-surface').css('background-color','rgba(0,0,0,0.0)')}});
